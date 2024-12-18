@@ -1,1 +1,1 @@
-Quick implementation of HN
+## Minimalist HN project
